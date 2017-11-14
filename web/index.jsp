@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-  <title>Calculate sum of ArrayList values</title>
+  <title>Convert Hex to Decimal</title>
   <script>
       function validateForm(){
           var val1 = document.forms["myForm"]["value1"].value;
